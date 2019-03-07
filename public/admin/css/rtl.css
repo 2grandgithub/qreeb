@@ -1,0 +1,406 @@
+/* RTL SUPPORT */
+
+.page-container.page-content-rtl .breadcrumb {
+
+  float: right;
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .breadcrumb > li + li:before {
+
+  content: "\f104";
+
+}
+
+.page-container.page-content-rtl .page-title {
+
+  float: right;
+
+}
+
+.page-container.page-content-rtl .page-title h2 {
+
+  float: right;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-title {
+
+  text-align: right;
+
+  
+
+}
+
+.page-container.page-content-rtl .x-navigation li > a {
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .x-navigation li > a .fa,
+
+.page-container.page-content-rtl .x-navigation li > a .glyphicon {
+
+  margin-right: 0px;
+
+  margin-left: 10px;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-icon-button > a {
+
+  text-align: center;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-icon-button > a .fa,
+
+.page-container.page-content-rtl .x-navigation li.xn-icon-button > a .glyphicon {
+
+  margin-left: 0px;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-icon-button > a .flag {
+
+  margin-right: auto;
+
+  margin-left: auto;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-openable:before {
+
+  right: auto;
+
+  left: 0px;
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .x-navigation li.xn-openable > .informer {
+
+  right: auto;
+
+  left: 25px;
+
+}
+
+.page-container.page-content-rtl .x-navigation .informer {
+
+  right: auto;
+
+  left: 10px;
+
+}
+
+.page-container.page-content-rtl .flag {
+
+  margin-right: 0px;
+
+  margin-left: 10px;
+
+}
+
+.page-container.page-content-rtl .mCSB_scrollTools {
+
+  left: 0px;
+
+  right: auto;
+
+}
+
+.page-container.page-content-rtl .panel {
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .panel .panel-heading .panel-title {
+
+  float: right;
+
+  margin-left: 0px;
+
+  margin-right: 7px;
+
+}
+
+.page-container.page-content-rtl .panel .panel-heading ul.panel-controls {
+
+  float: left;
+
+}
+
+.page-container.page-content-rtl .list-group-contacts .list-group-item img {
+
+  margin-right: 0px;
+
+  margin-left: 10px;
+
+}
+
+.page-container.page-content-rtl .list-group-controls {
+
+  right: auto;
+
+  left: 10px;
+
+}
+
+.page-container.page-content-rtl .list-group-status {
+
+  float: right;
+
+  margin-right: 0px;
+
+  margin-left: 10px;
+
+}
+
+.page-container.page-content-rtl .list-tags li {
+
+  float: right;
+
+}
+
+.page-container.page-content-rtl .list-tags li a {
+
+  float: right;
+
+  margin: 0px 0px 5px 5px;
+
+}
+
+.page-container.page-content-rtl .messages .item .text .heading .date {
+
+  float: left;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap {
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data .widget-int,
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data-left .widget-int,
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data .widget-title,
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data-left .widget-title,
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data .widget-subtitle,
+
+.page-container.page-content-rtl .page-content .page-content-wrap .widget.widget-item-icon .widget-data-left .widget-subtitle {
+
+  text-align: right;
+
+  
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .control-label,
+
+.page-container.page-content-rtl .page-content .page-content-wrap div.tagsinput span.tag a {
+
+  text-align: left;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .bootstrap-select.btn-group .btn .filter-option {
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .bootstrap-select > .btn {
+
+  padding-left: 25px;
+
+  padding-right: 15px;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .bootstrap-select.btn-group .btn .caret {
+
+  right: auto;
+
+  left: 12px;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .dropdown-menu > li > a {
+
+  text-align: right;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .close {
+
+  float: left;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap .list-group-item > .badge {
+
+  float: left;
+
+}
+
+.MenuTab{
+
+  direction:rtl;
+
+}
+
+.page-container.page-content-rtl .page-content .page-content-wrap th {
+
+  text-align: right;
+
+}
+
+.flashMessage{
+
+    text-align: right;
+
+}
+
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9{
+
+  float:right !important;
+
+}
+
+.pull-right{
+
+  float:right; !important;
+
+}
+
+.panel .panel-heading .panel-title-box{
+
+  float:right;
+
+}
+
+.thb{
+
+  float:right;
+
+       
+
+        
+
+}
+
+.table-responsive{
+
+  direction:rtl;
+
+}
+
+.form-control{
+
+  direction:rtl;
+
+        
+
+        font-weight: bold;
+
+}
+
+.breadcrumb{
+
+  direction:rtl;
+
+}
+
+.page-title{
+
+  direction:rtl;
+
+}
+
+
+
+fa-user{
+
+ float:right;   
+
+}
+
+.mb-title{
+
+    direction:rtl;
+
+}
+
+.mb-content{
+
+    direction:rtl;
+
+}
+
+/*span.fa.fa-folder-open-o,span.fa.fa-users,span.fa.fa-shopping-cart,span.fa.fa-th-large,span.fa.fa-briefcase,span.fa.fa-bars,span.fa.fa-plus,span.fa.fa-desktop,span.fa.fa-map-marker,span.fa.fa-picture-o,span.fa.fa-search-plus,
+
+span.glyphicon.glyphicon-filter,span.fa.fa-bar-chart-o,span.fa.fa-phone-square,span.fa.fa-gears,span.fa.fa-calendar,span.fa.fa-download,span.fa.fa-envelope,span.fa.fa-pencil,span.fa.fa-star,span.fa.fa-comments,span.fa.fa-plus-circle,span.fa.fa-crosshairs,span.fa.fa-gears,
+
+span.fa.fa-suitcase,span.fa.fa-tags,span.fa.fa-tag,span.fa.fa-file,span.fa.fa-inbox,span.fa.fa-bookmark,span.fa.fa-book,span.fa.fa-pencil-square,span.fa.fa-files-o,span.fa.fa-pencil-square,span.fa.fa-signal,span.fa.fa-th-large,span.fa.fa-dollar,
+
+span.fa.fa-list-ul,span.fa.fa-certificate,span.fa.fa-list-ol,span.fa.fa-folder-open,span.fa.fa-bullhorn,span.fa.fa-paperclip,span.fa.fa-h-square,span.fa.fa-globe,span.fa.fa-sign-out,span.fa.fa-magic,span.fa.fa-dot-circle-o,span.fa.fa-flag-checkered,
+
+span.fa.fa-retweet,span.fa.fa-money,span.fa.fa-wrench,span.fa.fa-font,span.fa.fa-spinner,span.fa.fa-gear,span.glyphicon.glyphicon-list-alt,span.glyphicon.glyphicon-align-justify,span.glyphicon.glyphicon-send,span.glyphicon.glyphicon-time,span.glyphicon.glyphicon-upload,
+
+span.glyphicon.glyphicon-question-sign,span.fa.fa-user,span.fa.fa-trophy,span.fa.fa-check,span.fa.fa-list-alt,span.fa.fa-hand-o-right,span.fa.fa-video-camera,span.fa.fa-video-search,span.glyphicon.glyphicon-folder-open,span.fa.fa-envelope-o,span.fa.fa-tasks,span.fa.fa-question-circle,span.glyphicon.glyphicon-globe,span.fa.fa-list,span.fa.fa-cogs,span.fa.fa-image,
+
+span.fa.fa-info-circle,span.flag.flag-gb,span.flag.flag-ar,span.fa.fa-trash-o,span.glyphicon.glyphicon-info-sign,span.fa.fa-mobile,span.fa.fa-times{
+
+  float:right;
+
+}*/
+
+span.fa.fa-folder-open-o,span.fa.fa-users,span.fa.fa-shopping-cart,span.fa.fa-briefcase,span.fa.fa-map-marker,span.fa.fa-picture-o{
+
+  margin-left:10px;
+
+}
+
+span.span.fa.fa-user.prof,span.span.fa.fa-envelope.prof
+
+{
+
+    margin-right:6px;
+
+}
+
+.btn .fa, .btn .glyphicon{
+
+  margin-left:5px;
+
+}
+
+.btn-success{direction:ltr;}
+
+/* END RTL SUPPORT */
+
+.rtl_th{
+  text-align:right!important
+}
+
+.buttons
+{
+  display: inline;
+}
+
+.alert-msg
+{
+  float: left;
+}
+
